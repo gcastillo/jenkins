@@ -1,0 +1,4 @@
+/Jenkins/*.suo
+/Jenkins/Jenkins/bin
+/Jenkins/Jenkins/obj
+/Jenkins/Jenkins/release
