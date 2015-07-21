@@ -2,3 +2,7 @@
 /Jenkins/Jenkins/bin
 /Jenkins/Jenkins/obj
 /Jenkins/Jenkins/release
+/Jenkins/JenkinsTest/bin
+/Jenkins/JenkinsTest/obj
+/Jenkins/JenkinsNUnitTest/bin
+/Jenkins/JenkinsNUnitTest/obj

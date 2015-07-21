@@ -12,6 +12,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{DF3072
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTest", "JenkinsTest\JenkinsTest.csproj", "{7D0D906D-E71C-46A9-B8F2-E5FD2AC64E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsNUnitTest", "JenkinsNUnitTest\JenkinsNUnitTest.csproj", "{288ACBF5-CEBE-47B4-BC5B-69BF12A93673}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +26,14 @@ Global
 		{6BE81395-5A41-4814-825A-0220FC835C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE81395-5A41-4814-825A-0220FC835C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE81395-5A41-4814-825A-0220FC835C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0D906D-E71C-46A9-B8F2-E5FD2AC64E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0D906D-E71C-46A9-B8F2-E5FD2AC64E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0D906D-E71C-46A9-B8F2-E5FD2AC64E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0D906D-E71C-46A9-B8F2-E5FD2AC64E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288ACBF5-CEBE-47B4-BC5B-69BF12A93673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288ACBF5-CEBE-47B4-BC5B-69BF12A93673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288ACBF5-CEBE-47B4-BC5B-69BF12A93673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288ACBF5-CEBE-47B4-BC5B-69BF12A93673}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
